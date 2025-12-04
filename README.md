@@ -666,4 +666,18 @@ how to make it simple enough to adopt
 
 DFH + the Semantic Stack are those answers.
 
+DFH is intentionally designed to be machine-optimized, not human-optimized. It gives AI systems something they have never had before: a deterministic, unambiguous, universal first-hop for any topic. Because it uses:
+
+a single fixed path (/.well-known/stack)
+
+a tiny JSON-LD file
+
+five stable anchors (type, entity, url, sitemap, canonical)
+
+DNS-like decentralized resolution
+
+…machines can parse and understand DFH instantly with near-zero ambiguity. This structure removes guesswork, eliminates meaning drift, and dramatically improves how crawlers, LLMs, and agents interpret your domain.
+
+DFH is one of the simplest and clearest machine-readable contracts ever proposed — which is exactly why it works.
+
 End of README.
