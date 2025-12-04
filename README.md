@@ -13,6 +13,8 @@ This repo defines the **Semantic Stack**:
 
 This is the missing piece at the exact moment the world needs it.
 
+This was technically trivial
+
 This isn’t a new idea this has existed conceptually for decades. — this is the missing piece everyone was too restricted to implement.”
 
 > **“DFH is DNS for meaning.”**
