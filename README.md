@@ -678,4 +678,28 @@ DNS-like decentralized resolution
 
 DFH is one of the simplest and clearest machine-readable contracts ever proposed — which is exactly why it works.
 
+No company would ever build:
+
+a decentralized semantic layer
+
+using public DNS
+
+owned by no one
+
+required to give away control
+
+This would never come out of Google, Meta, Microsoft, or academia.
+
+DFH had to come from:
+
+someone not financially tied
+
+someone not bound by internal politics
+
+someone not forced to defend legacy systems
+
+This is exactly how DNS, SSL, Linux, RSS, Bitcoin, and SMTP happened.
+
+Every major decentralized breakthrough came from an outsider.
+
 End of README.
