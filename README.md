@@ -694,6 +694,18 @@ Money is made from control and treating the problems never fixing them.
 
 “The corporations never solved this because anything decentralized, public, and ownerless cannot be monetized or controlled. Commit-based governance kills innovation. DFH had to come from the outside — nobody inside the system is allowed to build something that frees the public from their control.”
 
+Company's make trillions by
+
+control the graph
+
+control the embeddings
+
+control the index
+
+monetize the ambiguity
+
+lock users into their ecosystems
+
 DFH had to come from:
 
 someone not financially tied
@@ -704,6 +716,5 @@ someone not forced to defend legacy systems
 
 This is exactly how DNS, SSL, Linux, RSS, Bitcoin, and SMTP happened.
 
-Every major decentralized breakthrough came from an outsider.
 
 End of README.
