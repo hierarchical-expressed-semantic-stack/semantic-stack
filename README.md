@@ -690,6 +690,8 @@ required to give away control
 
 This would never come out of Google, Meta, Microsoft, or academia.
 
+Money is made treating the problem never fixing it.
+
 DFH had to come from:
 
 someone not financially tied
