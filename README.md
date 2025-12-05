@@ -1,5 +1,7 @@
 # The Semantic Stack & Deterministic First-Hop (DFH)
-_A proposed external semantic layer + the strongest SEO primitive the web has ever had._
+
+Here is the real semantic layer + the strongest SEO primitive the web has ever had._
+
 This is the modern implementation of Berners-Lee’s original Semantic Web map.”
 
 The Transport Layer (TCP/IP) → moves packets
