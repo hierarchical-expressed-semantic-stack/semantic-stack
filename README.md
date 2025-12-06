@@ -1,6 +1,7 @@
 # The Semantic Stack & Deterministic First-Hop (DFH)
 **Here is the real semantic layer + the strongest SEO primitive the web has ever had.**  
 **This is the modern implementation of Berners-Lee’s original Semantic Web map.**
+*DFH matches the LLM’s internal canonicalization process.
 
 Internet Layers
 java
