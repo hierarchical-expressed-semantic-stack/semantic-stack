@@ -8,9 +8,14 @@ SFH / DFH is **the missing layer the internet never had**:
 a universal, deterministic **semantic + provenance first-hop** published at:
 
 https://<domain>/.well-known/stack
+/
+├─ .well-known/
+│  └─ stack
+├─ ai.json
+├─ sitemap.xml
+├─ robots.txt
+├─ README.md
 
-yaml
-Copy code
 
 The web has **DNS for location**.  
 SFH / DFH is **DNS for meaning**.
