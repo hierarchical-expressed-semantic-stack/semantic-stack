@@ -1,5 +1,6 @@
 # 🌐 The Semantic Web Stack
 “This work operationalizes and extends the original Semantic Web concepts proposed by Tim Berners-Lee, adapted for large-scale AI systems and modern web constraints.”
+This specification does not claim to define truth — only a deterministic starting point for meaning and provenance.
 ## Semantic First-Hop / Deterministic First-Hop Protocol
 ### (SFH / DFH Protocol Specification — Human Readable Version · Draft v3.0)
 
@@ -18,10 +19,6 @@ https://<domain>/.well-known/stack
 ├─ sitemap.xml
 ├─ robots.txt
 ├─ README.md
-
-DNS → /.well-known/stack → Knowledge Graph → Safety / RLHF → Model Output
-
-
 
 The web has **DNS for location**.  
 SFH / DFH is **DNS for meaning**.
