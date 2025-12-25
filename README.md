@@ -1,38 +1,70 @@
-🌐 Hierarchical Expressed Semantic Stack (HESS)
-A deterministic, installable semantic first-hop for the web — built for AI.
+# 🌐 Hierarchical Expressed Semantic Stack (HESS)
 
-HESS is a proposed, open, domain-owned Semantic Layer Public Index (SLPI) designed to solve the core AI systems problem: lack of grounding.
+> **A deterministic, installable semantic first-hop for the web — built for AI.**
 
-“HESS / DFH does not assert truth. It asserts semantic intent and provenance at the earliest possible machine-resolvable point.”
+HESS is a proposed, open, **domain-owned Semantic Layer Public Index (SLPI)** designed to address a core AI systems problem: **lack of grounding**.
 
-HESS introduces a deterministic semantic first hop—a publicly discoverable, machine-readable declaration of meaning—published directly by domain owners.
+> **“HESS / DFH does not assert truth.  
+> It asserts semantic intent and provenance at the earliest possible machine-resolvable point.”**
 
-Core property: • DFH — Deterministic First Hop-
+---
 
-What HESS Is
-HESS is the stack
+## What HESS Introduces
 
-DFH is the protocol
+HESS defines a **deterministic semantic first hop** — a publicly discoverable, machine-readable declaration of meaning published directly by domain owners.
 
-SLPI is the resulting public semantic layer
+Instead of inferring meaning after ingestion, AI systems can ground from an explicit semantic root.
 
-HESS applies JSON-style hierarchical structure to the web itself, replacing inferred meaning with explicitly declared semantic roots.
+---
 
-It is a modern, AI-era continuation of the original Semantic Web vision—implemented not as a probabilistic graph, but as a deterministic, domain-owned first hop.
+## Core Property
+
+- **DFH — Deterministic First Hop**
+
+---
+
+## Terminology
+
+- **HESS** — the semantic stack  
+- **DFH** — the protocol  
+- **SLPI** — the resulting public semantic layer  
+
+---
+
+## How It Works
+
+HESS applies **JSON-style hierarchical structure to the web itself**, replacing inferred meaning with **explicitly declared semantic roots**.
+
+It is a modern, AI-era continuation of the original Semantic Web vision — implemented **not as a probabilistic graph**, but as a **deterministic, domain-owned first hop**.
 
 Each domain publishes a single discovery file at:
 
 /.well-known/stack
 
+yaml
+Copy code
+
 This file declares:
 
-Semantic identity
-Intent
-Crawl and grounding entry points
-using a minimal, structured set of JSON-LD anchors.
+- Semantic identity  
+- Semantic intent  
+- Crawl and grounding entry points  
 
-The Grounding Flow
-DNS (location) ↓ HESS / DFH (declared meaning) ↓ Retrieval / Knowledge Graphs (probabilistic) ↓ Safety / Policy ↓ Model Output
+using a minimal, structured set of **JSON-LD anchors**.
+
+---
+
+## The Grounding Flow
+
+DNS (location)
+↓
+HESS / DFH (declared meaning)
+↓
+Retrieval / Knowledge Graphs (probabilistic)
+↓
+Safety / Policy
+↓
+Model Output
 
 HESS defines semantic intent — not factual correctness.
 Downstream systems may accept, reject, weight, or override declarations according to their own trust, safety, and policy models.
